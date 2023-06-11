@@ -11,5 +11,5 @@ Our solution edu.one is a platform that can help students better manage their st
 - Submitting assignments on time
 - Solving doubts of fellow batchmates.
 
-# Challenges we ran into
+# Challenges
 One particular hurdle was coming up with a modern UI that attracts students to visit this site and make use of it. We had to make sure this solution is something that students like using to make it effective. We tried to make it as modern and cosy as possible without hampering its functionality.
