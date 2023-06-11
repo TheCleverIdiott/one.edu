@@ -1,4 +1,4 @@
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/tz962W-xpQ4)
+[![Watch the video](https://github.com/TheCleverIdiott/one.edu/blob/master/videopreview.jpg)](https://youtu.be/tz962W-xpQ4)
 
 
 # The problem one.edu solves
