@@ -1,3 +1,6 @@
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/tz962W-xpQ4)
+
+
 # The problem one.edu solves
 There are several problems that students face on a day-to-day basis that affect their academic success.
 Namely, disorganization, limited access to study resources, lack of motivation, and struggle with understanding course material. These problems lead to missed deadlines and a lack of productivity, difficulty completing assignments, and ruin the overall learning experience.
