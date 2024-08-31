@@ -1,5 +1,13 @@
 # one.edu
 
+<!--
+<div align="center">
+   
+https://github.com/user-attachments/assets/17fc9009-a5f3-49f6-b1a0-4480992a80fa
+
+</div>
+-->
+
 [![Watch the video](https://github.com/TheCleverIdiott/one.edu/blob/master/videopreview.jpg)](https://youtu.be/tz962W-xpQ4)
 
 ## Introduction
